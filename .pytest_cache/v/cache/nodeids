@@ -1,4 +1,0 @@
-[
-  "pytest/index_test.py::test_driver_instance_methods_decorators",
-  "pytest/index_test.py::test_passenger_instance_methods_decorators"
-]
